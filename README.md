@@ -1,7 +1,7 @@
 ## 🦄 a wild karmacoma appears!
 
 - I am currently a Research Engineer at a16z, with 15+ years of development experience
-- I am a lead developer on [a16z/halmos](https://github.com/a16z/halmos) and [a16z/jsi](https://github.com/a16z/halmos), focusing on open source developer tooling
+- I am a lead developer of [a16z/halmos](https://github.com/a16z/halmos) and [a16z/jsi](https://github.com/a16z/halmos), focusing on open source developer tooling and lightweight formal methods
 - My tech stack at the moment is primarily **Python**, **Solidity**, **EVM** bytecode and **SMT** solvers
 
 In previous lives:
