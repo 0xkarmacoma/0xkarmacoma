@@ -5,8 +5,10 @@
 - My tech stack at the moment is primarily **Python**, **Solidity**, **EVM** bytecode and **SMT** solvers
 
 In previous lives:
-- I worked on cloud infra and deployments at Netflix with a focus on resilience and observability (**Java** and other **JVM** languages)
-- I worked on mid-level compiler passes at Apple (**C++** and **LLVM**)
+- I worked on cloud infra and deployments at Netflix with a focus on resilience and observability for 7y (**Java** and other **JVM** languages)
+- I worked on mid-level compiler passes at Apple for 3y (**C++** and **LLVM**)
+- I worked for a year at UC Berkeley as a postdoc (JVM bytecode disassembly and rewriting tools)
+- I did a PhD in CS at INRIA (binary analysis, dynamic binary translation)
 
 ## 📫 contact me
 
